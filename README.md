@@ -10,6 +10,11 @@ To use rblx-ouch, you'll need to follow these steps:
 3. Install modules: os, shutil
 4. After you installed rblx-ouch, run the file and type in the path to your ROBLOX. You can do this by: Right clicking on ROBLOX, Click on "Open File Location" and then navigate to the topbar, click "Copy Path"
 
+# Installation
+
+[rblx-ouch.zip](https://github.com/user-attachments/files/18741712/rblx-ouch.zip)
+
+
 # Notes:
 Note 1: There isn't any set up file. I will try to make a set up file as soon as possible.
 Note 2: There isn't any images, explaining how to use rblx-ouch. I will try to add images as soon as possible.
