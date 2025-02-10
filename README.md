@@ -18,5 +18,4 @@ To use rblx-ouch, you'll need to follow these steps:
 # Notes:
 Note 1: There isn't any set up file. I will try to make a set up file as soon as possible.
 Note 2: There isn't any images, explaining how to use rblx-ouch. I will try to add images as soon as possible.
-
 Note 3: After running rblx-ouch, there is a chance that you may encounter a warning from your device saying "This file might be a virus", even tho it's not. This warning might occurr because your device does not trust the file. Just click "Run Away" and you're all set.
