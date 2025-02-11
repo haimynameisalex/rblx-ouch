@@ -12,7 +12,7 @@ To use rblx-ouch, you'll need to follow these steps:
 
 
 # Installation
-[rblx-ouch.zip](https://github.com/user-attachments/files/18741712/rblx-ouch.zip)
+Releases: https://github.com/haimynameisalex/rblx-ouch/releases
 
 
 # Notes:
